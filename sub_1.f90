@@ -1,5 +1,5 @@
 	program sub
-    implicit none
+    !implicit none
 	integer::i,j,k1,k2,k3,l,m,n,ierror_1,ierror_2,ierror_3,ierror_4,ierror_5
 	integer::ierror_6,ierror_7,ierror_8,ierror_9,ierror_10,ierror_11
 	integer,allocatable,dimension(:)::resid,id
